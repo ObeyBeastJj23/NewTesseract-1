@@ -54,7 +54,7 @@ __[Back to QuickLinks](#quick-links-instead-of-scrolling-click-these)__
 
 ## Acknowledgements
 
-- Tesseract is a "spoon" of **[Pocketmine-MP](http://github.com/pmmp/PocketMine-MP/)**, [Tesseract](http://github.com/TesseractTeam/Tesseract)** & **[Genisys](https://github.com/iTXTech/Genisys)**
+- Tesseract is a "spoon" of **[Pocketmine-MP](http://github.com/pmmp/PocketMine-MP/)**, **[Tesseract](http://github.com/TesseractTeam/Tesseract)** & **[Genisys](https://github.com/iTXTech/Genisys)**
 - Most of the original code was written by PocketMine Team and iTX Technologies. <br>
 
 __[Back to QuickLinks](#quick-links-instead-of-scrolling-click-these)__<br>
