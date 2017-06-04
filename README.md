@@ -1,4 +1,4 @@
-![Tesseract](http://i.imgur.com/1ga0ATy.jpg)
+![Tesseract](https://www2.pic-upload.de/img/33281580/Unbenannt18.jpg)
 
 ## NewTesseract Introduction
 -------------
