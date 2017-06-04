@@ -1,8 +1,8 @@
 ![Tesseract](http://i.imgur.com/1ga0ATy.jpg)
 
-## Tesseract Introduction
+## NewTesseract Introduction
 -------------
-**Tesseract is the advanced server software based on PocketMine-MP and Genisys! <br>
+**NewTesseract is the advanced server software based on Tesseract, PocketMine-MP and Genisys! <br>
 Tesseract supports packet and event debug system (for plugin developers) <br>
 
 -------------
@@ -16,7 +16,7 @@ Contact us on [TWITTER](http://www.twitter.com/TesseractPHP) for support
 
 ## Notice
 
-**Tesseract is supported to Minecraft:PE 1.1.0 (PE & Win10) <br>
+**NewTesseract is supported to Minecraft:PE 1.1.0 (PE & Win10) <br>
 Report any issues and we will try to fix them for you.**  <br>
 
 ## Builds
