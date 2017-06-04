@@ -8,8 +8,9 @@ Tesseract supports packet and event debug system (for plugin developers) <br>
 -------------
 
 Contact us on [DISCORD](https://discord.gg/zYZmpec) for support
-Contact us on [TWITTER](http://www.twitter.com/TesseractPHP) for support**
 
+Contact us on [TWITTER](http://www.twitter.com/TesseractPHP) for support
+ 
 ## Information Title
 **TEXTURES PACKS CURRENTLY ARE IN BETA, PLEASE REPORT ANY BUGS!** <br>
 
