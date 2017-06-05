@@ -17,14 +17,14 @@ groups:
   Owner:
     required: 1
     users:
-    - jrodr10
+    - FunnyBuddys
     teams:
     - owners
       
   Software:
       required: 1
       users:
-      - jrodr10
+      - FunnyBuddys
       - AppleDevelops
       teams:
       - software
