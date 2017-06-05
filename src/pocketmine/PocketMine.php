@@ -76,7 +76,7 @@ namespace pocketmine {
 
     const VERSION = "1.3.0";
     const API_VERSION = "3.0.0-ALPHA3";
-    const CODENAME = "Unity";
+    const CODENAME = "Revolution";
 
     /*
      * Startup code. Do not look at it, it may harm you.
