@@ -23,7 +23,7 @@ Report any issues and we will try to fix them for you.**  <br>
 __Travis-CI Build:__<br>
  [![Travis-CI](https://api.travis-ci.org/NewTesseractTeam/NewTesseract.svg?branch=master)](https://travis-ci.org/NewTesseractTeam/NewTesseract)<br>
  __CircleCI Build__<br>
-[![CircleCI](https://circleci.com/gh/circleci/mongofinil.svg?&style=shield&circle-token=8678c9589c2e09b659783b4d7a65365fa982127e/)](https://circleci.com/gh/NewTesseractTeam/NewTesseract)
+[![CircleCI](https://circleci.com/gh/circleci/mongofinil.svg?&style=shield&circle-token=1bca2b3c8c787c8c6790c8a94ced12dce43c1dec/)](https://circleci.com/gh/NewTesseractTeam/NewTesseract)
 
 ## Quick Links (Instead of scrolling, click these!)
 
