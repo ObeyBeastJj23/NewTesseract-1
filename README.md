@@ -3,7 +3,7 @@
 ## NewTesseract Introduction
 -------------
 **NewTesseract is the advanced server software based on Tesseract, PocketMine-MP and Genisys! <br>
-Tesseract supports packet and event debug system (for plugin developers) <br>
+NewTesseract supports packet and event debug system (for plugin developers) <br>
 
 -------------
  
@@ -12,7 +12,7 @@ Tesseract supports packet and event debug system (for plugin developers) <br>
 
 ## Notice
 
-**NewTesseract is supported to Minecraft:PE 1.1.0 (PE & Win10) <br>
+**NewTesseract is supported for Minecraft:PE 1.1.0 (PE & Win10) <br>
 Report any issues and we will try to fix them for you.**  <br>
 
 ## Builds
@@ -41,7 +41,7 @@ __[Back to QuickLinks](#quick-links-instead-of-scrolling-click-these)__
 ## Resources
 
 **External Links**<br>
-Your Tesseract Server needs Visual Studio C++ Redistributable 2015 (If you are on windows). <br>
+Your NewTesseract Server needs Visual Studio C++ Redistributable 2015 (If you are on windows). <br>
 It can be downloaded
 __[here](https://www.microsoft.com/en-us/download/details.aspx?id=48145)__ <br>
 
